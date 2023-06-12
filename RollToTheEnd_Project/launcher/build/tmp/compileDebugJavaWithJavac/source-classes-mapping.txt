@@ -1,0 +1,2 @@
+com/DefaultCompany/Rolltotheend/BuildConfig.java
+ com.DefaultCompany.Rolltotheend.BuildConfig
